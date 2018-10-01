@@ -1,0 +1,115 @@
+.col-sm-12 p{
+    font-size: 20px;
+    border: transparent gray;
+    margin-top: 20%;
+    text-align: justify;
+    
+}
+p1 {
+    border: none;
+    margin-top: 20%;
+    font-size: 20px
+}
+h1 {
+    font-family: snell roundhand
+}
+.jumbotron h1 {
+    font-family:snell roundhand;
+    letter-spacing: unset;
+    font-size: 100px;
+    margin-left: 20%;
+    margin-right: 10%;
+    text-shadow: -1px 0 red, 0 1px red, 1px 0 red, 0 -1px red;
+    text-decoration: underline
+}
+.col-sm-12 img {
+        margin: auto;    
+        display: block;
+
+}
+    .row img {
+        margin: auto;
+        display: block;
+        size: 500px
+    }
+.top-buffer {
+    margin-top: 20px
+}
+.row p{
+    margin-top: 15%;
+    font-size: 20px;
+    size: 500px
+}
+.jumbotron {
+    background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/itCjTBE/abstract-tech-corporate-red-grey-background-video-animation-hd-1920x1080_41du-fyse__F0014.png);
+    background-size: cover;
+
+}
+.col-sm-6 {
+    margin-top: 10%
+}
+.col-sm-4 {
+    margin-top: 10%
+}
+
+.nav-link {
+    color: white;
+}
+.col-sm-12 h2 {
+    margin-top: 30%;
+    color: black;
+    font-family: snell roundhand;
+    font-size: 100px;
+    text-shadow: 2px 2px teal;
+}
+.container .btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+#about-us-picture {
+    transform: rotate(270deg);
+    margin-top: 20%;
+    border-radius: 50%
+}
+#about-us-text {
+    text-align: center
+
+}
+#aboutus {
+    background-color: lightgray
+}
+#contactus {
+    margin-right: 20%;
+    
+}
+#map {
+    margin-left: 0
+}
+#contact-us {
+    background-color: lightgrey
+}
+.list li {
+
+font-size: 20px;
+margin-left: 15%
+}
+#number h1 {
+    text-align: center;
+    font-size: 50px
+
+}
+h4 {
+    text-align: center
+}
+
